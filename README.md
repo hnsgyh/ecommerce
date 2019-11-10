@@ -4,6 +4,7 @@ Project  Name: E-commerce Shopping Cart mini app for android device
 
 Year : 2012019年11月10日19:51:09
 Author:高宇航
+other update1
 
 Project type: A Simple University project.
 
